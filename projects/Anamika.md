@@ -4,6 +4,14 @@
 
 Anamika is an innovative project aimed at recreating the ghostly character from the Malayalam movie "Romancham" using modern technologies. The project leverages Language Learning Models (LLMs), Speech-to-Text APIs, and 3D graphics to create an immersive experience where users can interact with Anamika through a virtual Ouija board.
 
+<div>
+   <b>YouTube: </b>
+   </br>
+   <a href="https://www.youtube.com/watch?v=Pk_6XVoo61A">
+     <img src="http://img.youtube.com/vi/Pk_6XVoo61A/0.jpg" alt="Video 1" style="width: 48%;">
+   </a>
+</div>
+
 ![Romancham Carrom Board](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd32qys9a6wm9no.cloudfront.net%2Fimages%2Fmovies%2Fbackdrop%2F8e%2F24b31a46d4d5eb846e869bf5a3b02e93_706x397.jpg%3Ft%3D1675802362&f=1&nofb=1&ipt=7d5f3d1394aa849938824ba457fa9e3e5abd7756ca356fadda2b1d35fe3ed972&ipo=images)
 
 ## Key Features
