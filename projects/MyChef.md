@@ -5,11 +5,10 @@
 We propose the development of a Flutter-based mobile application that utilizes OpenAI's ChatGPT integration to provide users with a conversational recipe assistant. The application will allow users to search for recipes, filter results based on dietary preferences, and modify recipes to suit their tastes. Additionally, the application will feature speech-to-text functionality, enabling users to interact with the app using voice commands.
 
 ## Project Objectives:
-
-1.⁠ ⁠Design and develop a user-friendly interface for searching, filtering, and displaying recipes.
-2.⁠ ⁠Integrate OpenAI's ChatGPT API to provide users with recipe suggestions and modifications.
-3.⁠ ⁠Implement speech-to-text functionality using the Flutter ⁠ speech_to_text ⁠ package.
-4.⁠ ⁠Integrate the speech-to-text functionality with the ChatGPT API.
+1. ⁠Design and develop a user-friendly interface for searching, filtering, and displaying recipes.
+2. ⁠Integrate OpenAI's ChatGPT API to provide users with recipe suggestions and modifications.
+3. ⁠Implement speech-to-text functionality using the Flutter ⁠ speech_to_text ⁠ package.
+4. ⁠Integrate the speech-to-text functionality with the ChatGPT API.
 
 ## Project Scope:
 
